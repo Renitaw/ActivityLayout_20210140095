@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Praktikum1</string>
+    <string name="nama">Renita Widiastuti</string>
+    <string name="Hp">081211361192</string>
+    <string name="Barbie">Mariposa</string>
+    <string name="tName">Name:</string>
+    <string name="tPhone">Phone:</string>
+    <string name="tAddress">Address:</string>
+    <string name="tSubmit">Submit</string>
+    <string name="tlogo">Icon</string>
+    <string name="tEditName">Enter Your Name</string>
+    <string name="tEditPhone">Enter Your Phone Number</string>
+    <string name="tEditAddress">Enter Your Address</string>
+    <string name="tbio">Bio Eci</string>
+    <string name="teci">Keluarga Eci</string>
+    <string name="tfood">Makanan Kesukaan Eci</string>
+    <string name="R">Right</string>
+    <string name="L">Left</string>
+    <string name="Pict">Select My Picture</string>
+</resources>
